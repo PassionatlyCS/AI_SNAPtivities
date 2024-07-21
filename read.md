@@ -1,0 +1,1 @@
+Using AI create a 9 team game schedule for 6 weeks, every team needs to play every week. No teams can play each other more than once. Teams can have no more than 1 double header, but it is not required to have more than 6 games
